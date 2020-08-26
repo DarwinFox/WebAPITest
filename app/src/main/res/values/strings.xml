@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="name">Harrison</string>
+    <string name="yellow_star">Yellow Star String Resource</string>
+    <string name="bio">"Hello, this is my page, what you gonna do about it?" -Harrison Fox
+    \n\n But really? Is there anything left to say here?
+        \n I mean come on don\'t you have better apps to browse?
+    \n or maybe not! so be it.........
+        \n nooooooooooooooooooo waaaayyyyyyyyy Dude!
+        \n
+        \n some random text
+                \n some random text
+        \n some random text
+        \n some random text
+        \n some random text
+        \n some random text
+        \n some random text
+        \n some random text
+        \n some random text
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+    <string name="set">Set</string>
+</resources>
